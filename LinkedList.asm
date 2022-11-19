@@ -18,7 +18,7 @@ MSJ0        DB CR, LF, 'Eleman sayisini giriniz: ', 0
 MSJ3		DB CR, LF, 'Eklemek istediginiz degerler -32768 ile 32767 araliginda olmalidir!', CR, LF, 0
 MSJ1  		DB CR, LF, 'Elemanlari giriniz: ', 0
 MSJ2        DB CR, LF, 'Eklemek istediginiz yeni degeri giriniz: ', 0
-MSJ4		DB CR, LF, '17011071 - Hatice Demir', 0
+MSJ4		DB CR, LF, 'Hatice', 0
 BOSLUK		DB HT, 0
 NEWLINE     DB CR, LF, 0
 DSEG    	ENDS
