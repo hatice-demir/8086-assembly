@@ -1,5 +1,4 @@
-# Linked-List-in-Assembly
-### 2021-2022 Güz Dönemi
+#### 2021-2022 Güz Dönemi
 ### Alt Seviye Programlama Dersi
 #### Ödev 1 – Linkli Liste
 Bu ödevde aşağıda istenilenleri gerçekleştiren bir konsol uygulaması yazmanız beklenmektedir. Ödeviniz bir ana
