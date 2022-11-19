@@ -5,15 +5,12 @@
 Bu ödevde aşağıda istenilenleri gerçekleştiren bir konsol uygulaması yazmanız beklenmektedir. Ödeviniz bir ana
 ekran menüsünden ve aşağıda anlatılan 3 fonksiyonu barındıran alt menülerden oluşmalıdır. Menü tasarımınız
 ekrana yazdırılacak karakterlerle basitçe gerçekleştirilebilmesi, alt menü seçimleri de programa girdi olarak
-verilen karakterlerle (örnek 1, 2, 3) belirlenmelidir. Menü tasarımınızın bir yerinde (tüm alt menülerde de
-görünmek kaydıyla) öğrenci numaranız ve isminiz yazmalıdır.
+verilen karakterlerle (örnek 1, 2, 3) belirlenmelidir.
 
 Alt Menü 1. Kullanıcıdan alınan n değeri ve bu n değeri kadar dizi elemanlarının sisteme girilmesinden oluştur.
 
-a) Dizi girildiği anda bir yordam ile bu diziyi Linkli Liste veri yapısında oluşturacak şekilde linkleri
+* Dizi girildiği anda bir yordam ile bu diziyi Linkli Liste veri yapısında oluşturacak şekilde linkleri
 oluşturunuz.
-
-* Linkli Liste veri yapısını öğrenmek, anlamak ve kavramak öğrencinin sorumluluğundadır.
 
 Alt Menü 2. Kullanıcı tarafından girilen dizinin değerlerinin ve linklerinin anlaşılabilir bir şekilde
 görselleştirilmesini gerçekleştirir.
